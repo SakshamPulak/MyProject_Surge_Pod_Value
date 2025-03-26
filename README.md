@@ -4,6 +4,10 @@ Optimizing Surge Charges for Swiggy Instamart GIG Workers
 Project Overview
 In my current role as a Business Analyst at Swiggy, I analyze surge charges for GIG Workers in Delhi NCR & North Eastern regions. This project tracks surge pricing trends and automates data extraction using SQL, Excel, and Power BI, allowing for faster decision-making and improved incentive allocation.
 
+Surge Pod Value Analysis for Swiggy Instamart – A data analysis project 
+focused on tracking and optimizing surge charges for GIG Workers in Delhi NCR 
+and North Eastern regions using SQL, Excel, and Power BI.
+
 Tools & Technologies Used
 ✅ Excel, Google Sheets, WPS Office – For data tracking & surge analysis.
 ✅ SQL (Jira Postman Queries) – Automating data extraction.
